@@ -12,7 +12,7 @@ O projeto examina a associação entre a quantidade de *pet shops* por 10 mil ha
 ## Arquivos
 
 - `base_municipal_petshops_natalidade.csv`: base municipal consolidada utilizada nas análises.
-- `analise.R`: script com preparação de variáveis, estatísticas descritivas, gráficos, cinco regressões, testes de Breusch–Pagan, teste de Wald e tabela de resultados.
+- `Trabalho Final Econometria.R`: script com preparação de variáveis, estatísticas descritivas, gráficos, cinco regressões, testes de Breusch–Pagan, teste de Wald e tabela de resultados.
 
 ## Dados e variáveis
 
