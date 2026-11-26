@@ -20,7 +20,7 @@ library(dplyr)
 
 # 3. Importando a base de dados
 
-dados <- read_csv("C:/Users/manuz/Downloads/base_municipal_petshops_natalidade (2).csv")
+dados <- read_csv("base_municipal_petshops_natalidade.csv")
 
 
 # 4. Arrumando as variaveis
